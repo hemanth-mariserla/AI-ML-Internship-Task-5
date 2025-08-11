@@ -56,10 +56,10 @@ Implement and compare Decision Tree and Random Forest models for classification.
 
 ## 📊 Results
 
-Decision Tree Accuracy: 0.9853658536585366
-Limited Depth Accuracy: 0.8
-Random Forest Accuracy: 0.9853658536585366
-Random Forest CV Accuracy: 0.9970731707317073
+* Decision Tree Accuracy: 0.9853658536585366
+* Limited Depth Accuracy: 0.8
+* Random Forest Accuracy: 0.9853658536585366
+* Random Forest CV Accuracy: 0.9970731707317073
 ---
 
 
